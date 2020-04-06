@@ -13,4 +13,4 @@ jobs:
       - name: Run golangci-lint
         uses: actions-contrib/golangci-lint@v1
         with:
-          args: run -v -E gofmt
+          args: run -E gofmt
