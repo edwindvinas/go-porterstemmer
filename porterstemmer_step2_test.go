@@ -95,7 +95,6 @@ func TestStep2(t *testing.T) {
 
 	tests[i].S = []rune("sensibiliti")
 	tests[i].Expected = []rune("sensible")
-	i++
 
 	for _, datum := range tests {
 

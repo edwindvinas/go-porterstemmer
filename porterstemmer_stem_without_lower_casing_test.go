@@ -19,7 +19,6 @@ func TestStemWithoutLowerCasing(t *testing.T) {
 
 	tests[i].S = []rune("roll")
 	tests[i].Expected = []rune("roll")
-	i++
 
 	for _, datum := range tests {
 

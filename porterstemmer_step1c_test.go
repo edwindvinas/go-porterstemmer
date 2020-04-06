@@ -23,7 +23,6 @@ func TestStep1c(t *testing.T) {
 
 	tests[i].S = []rune("apology")
 	tests[i].Expected = []rune("apologi")
-	i++
 
 	for _, datum := range tests {
 

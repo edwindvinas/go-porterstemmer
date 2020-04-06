@@ -31,7 +31,6 @@ func TestHasDoubleConsonantSuffix(t *testing.T) {
 
 	tests[i].S = []rune("ahaa")
 	tests[i].Expected = false
-	i++
 
 	for _, datum := range tests {
 

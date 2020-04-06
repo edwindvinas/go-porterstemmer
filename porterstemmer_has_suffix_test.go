@@ -422,7 +422,6 @@ func TestHasSuffix(t *testing.T) {
 	tests[i].S = []rune("cease")
 	tests[i].Suffix = []rune("e")
 	tests[i].Expected = true
-	i++
 
 	for _, datum := range tests {
 		if actual := hasSuffix(datum.S, datum.Suffix); actual != datum.Expected {

@@ -61,7 +61,6 @@ func TestIsConsontant(t *testing.T) {
 
 	tests[i].S = []rune("ya")
 	tests[i].Expected = []bool{true, false}
-	i++
 
 	for _, datum := range tests {
 		for i = 0; i < len(datum.S); i++ {
