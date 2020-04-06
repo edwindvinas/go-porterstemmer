@@ -4,7 +4,7 @@ I'm maintaining this fork because the original author was not replying to issues
 
 ## Status
 
-[![Tests](https://github.com/blevesearch/go-porterstemmer/workflows/Tests/badge.svg?branch=master&event=push)](https://github.com/blevesearch/go-porterstemmer/actions?query=workflow%3ATests+event%3Apush+branch%3Amaster) [!![Lint](https://github.com/blevesearch/go-porterstemmer/workflows/Lint/badge.svg?branch=master&event=push)](https://github.com/blevesearch/go-porterstemmer/actions?query=workflow%3ALint+event%3Apush+branch%3Amaster)
+[![Tests](https://github.com/blevesearch/go-porterstemmer/workflows/Tests/badge.svg?branch=master&event=push)](https://github.com/blevesearch/go-porterstemmer/actions?query=workflow%3ATests+event%3Apush+branch%3Amaster) [![Lint](https://github.com/blevesearch/go-porterstemmer/workflows/Lint/badge.svg?branch=master&event=push)](https://github.com/blevesearch/go-porterstemmer/actions?query=workflow%3ALint+event%3Apush+branch%3Amaster)
 
 [![Coverage Status](https://coveralls.io/repos/blevesearch/go-porterstemmer/badge.png?branch=HEAD)](https://coveralls.io/r/blevesearch/go-porterstemmer?branch=HEAD)
 
