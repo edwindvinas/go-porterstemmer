@@ -87,7 +87,6 @@ func TestStep4(t *testing.T) {
 
 	tests[i].S = []rune("bowdlerize")
 	tests[i].Expected = []rune("bowdler")
-	i++
 
 	for _, datum := range tests {
 

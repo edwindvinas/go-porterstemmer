@@ -47,7 +47,6 @@ func TestContainsVowel(t *testing.T) {
 
 	tests[i].S = []rune("cy")
 	tests[i].Expected = true
-	i++
 
 	for _, datum := range tests {
 		if actual := containsVowel(datum.S); actual != datum.Expected {

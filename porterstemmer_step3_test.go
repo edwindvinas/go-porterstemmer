@@ -39,7 +39,6 @@ func TestStep3(t *testing.T) {
 
 	tests[i].S = []rune("goodness")
 	tests[i].Expected = []rune("good")
-	i++
 
 	for _, datum := range tests {
 

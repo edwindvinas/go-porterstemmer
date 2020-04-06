@@ -75,7 +75,6 @@ func TestStep1b(t *testing.T) {
 
 	tests[i].S = []rune("filing")
 	tests[i].Expected = []rune("file")
-	i++
 
 	for _, datum := range tests {
 
