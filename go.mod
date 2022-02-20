@@ -1,3 +1,3 @@
-module github.com/blevesearch/go-porterstemmer
+module github.com/edwindvinas/go-porterstemmer
 
 go 1.13
